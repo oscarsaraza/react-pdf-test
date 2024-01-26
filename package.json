@@ -11,6 +11,15 @@
   },
   "dependencies": {
     "@react-pdf/renderer": "^3.3.4",
+    "@tiptap/extension-color": "^2.1.16",
+    "@tiptap/extension-document": "^2.1.16",
+    "@tiptap/extension-list-item": "^2.1.16",
+    "@tiptap/extension-paragraph": "^2.1.16",
+    "@tiptap/extension-text": "^2.1.16",
+    "@tiptap/extension-text-style": "^2.1.16",
+    "@tiptap/pm": "^2.1.16",
+    "@tiptap/react": "^2.1.16",
+    "@tiptap/starter-kit": "^2.1.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
